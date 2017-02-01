@@ -3,7 +3,7 @@ layout: post
 title:  "Idea Generator"
 date:   2017-01-30 23:50:00
 categories: Ideas
-featured-img: /assets/at_photos/photo13.jpg
+featured-img: /at_photos/photo13.jpg
 ---
 A few ideas for new musical instruments:
 
@@ -12,7 +12,7 @@ A few ideas for new musical instruments:
 This idea would incorporate several slider potentiometers, rotary encoders, and buttons to create a waveshaping tool. The sliders can be manipulated to shape the waveform, with a pure data patch linearly interpolating between slider values. The rotary encoders at the bottom would function both as a button and as a step-wise input. The two buttons at the bottom would represent save and delete functionality.
 There are two modes: edit and play. In edit mode, the user could hold the save button as well as one of the rotary encoders, which would save the current waveform into that slot (there are 8 slots for different voices). Since the rotary encoders also have LED's embedded within them, they would glow one color if the slot is empty, and another if the slot is full. In play mode, the user can play the existing voices by pressing on the rotary encoders which have a waveform stored in that slot. The sliders function as volume faders in play mode, and the rotary encoders can be incresed or decreased to change the frequency of the waveform. The interface would like similar to the sketch below:
 
-<img src="/assets/sketches/waveshaperSketch.jpg" alt="Waveshaper Sketch" width="600" height="400">
+<img src="/sketches/waveshaperSketch.jpg" alt="Waveshaper Sketch" width="600" height="400">
 
 **2) Decision Tree**
 
