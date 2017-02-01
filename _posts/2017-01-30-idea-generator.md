@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "Idea Generator"
+description: "A few preliminary ideas."
 date:   2017-01-30 23:50:00
-categories: Ideas
-featured-img: /at_photos/photo13.jpg
+tags: [ideas]
+image:
+  [feature: /at_photos/photo13.jpg]
 ---
 A few ideas for new musical instruments:
 
