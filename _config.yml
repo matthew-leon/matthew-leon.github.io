@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Matthew Leon
+description:      A website to hold various computer music junk.
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
@@ -11,12 +11,12 @@ url:
 owner:
   name:           Your Name
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  bio:            "Musician, Programmer, etc."
+  email:          mleon@virginia.edu
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         
+  github:         matthew-leon       
   stackexchange:  
   linkedin:       
   instagram:      
