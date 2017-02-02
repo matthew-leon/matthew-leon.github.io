@@ -41,6 +41,5 @@ The following photos were taken with a Canon AT-1 camera. Check 'em out!
   /images/at_photos/photo27.jpg
   /images/at_photos/photo28.jpg
   /images/at_photos/photo29.jpg
-  /images/at_photos/photo30.jpg
 {% endcapture %}
 {% include gallery images=images caption="photos" cols=31 %}
