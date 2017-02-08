@@ -12,3 +12,5 @@ For my first project using the [Bela](http://bela.io), I wanted to 3D print a cu
 This case will house the Bela, as well as two digital inputs (buttons), two digital outputs (LED's), and two analog inputs (potentiometers). The sketch below shows the plan for the enclosure: 
 
 <img src="/images/sketches/belaEnclosure.JPG" alt="Bela Enclosure" width="auto" height="550">
+
+The enclosure will have openings for access ports for the Bela on the bottom, and the top will have a snap-on lid with holes for buttons, potentiometers, and LED's. 
