@@ -15,7 +15,7 @@ This case will house the Bela, as well as two digital inputs (buttons), two digi
 
 <img src="/images/sketches/belaEnclosure.jpg" alt="Bela Enclosure" width="600" height="400">
 
-{% if page.comments %}
+{% if post.comments %}
 <div id="disqus_thread"></div>
 <script>
 
