@@ -11,4 +11,4 @@ share: false
 For my first project using the [Bela](http://bela.io), I wanted to 3D print a custom case using the Makerbot Replicator. 
 This case will house the Bela, as well as two digital inputs (buttons), two digital outputs (LED's), and two analog inputs (potentiometers). The sketch below shows the plan for the enclosure: 
 
-<img src="/images/sketches/belaEnclosure.jpg" alt="Bela Enclosure" width="600" height="400">
+<img src="/images/sketches/belaEnclosure.JPG" alt="Bela Enclosure" width="600" height="400">
