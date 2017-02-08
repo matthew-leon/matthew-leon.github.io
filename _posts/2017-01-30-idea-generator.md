@@ -3,7 +3,7 @@ layout: post
 title:  "Idea Generator"
 description: "A few preliminary ideas."
 date:   2017-01-30 23:50:00
-tags: [ideas]
+tags: [ideas, waveshaper, dynamic programming, bluetooth, lissajous]
 share: false
 image:
   [feature: /at_photos/photo13.jpg]
