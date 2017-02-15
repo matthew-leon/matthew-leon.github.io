@@ -41,4 +41,4 @@ Check out the PD patch [here][2].
 
 
 [1]:{{ site.url }}/downloads/beagleCase.zip
-[1]:{{ site.url }}/downloads/pd-patches/beeping-bela.pd
+[2]:{{ site.url }}/downloads/pd-patches/beeping-bela.pd
