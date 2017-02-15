@@ -11,8 +11,18 @@ share: false
 For my first project using the [Bela](http://bela.io), I 3D-printed an enclosure to fully contain the bela, and all its wiring and inputs. In order to create this case, I found an [existing box for the Beaglebone Black](http://www.thingiverse.com/thing:102399) and modified its SCAD file to make it much taller. You can download this modified SCAD file and associated files [here][1].
 
 After printing the case, I realized the Bela would not fit with such high walls. After feverishly trying to stuff the Bela into the cylinder, I decided to separate the cylinder and the and bottom part of the case by sawing it off entirely. 
-The bottom piece: <img src="/images/beeping-bela/case-bottom.jpg" 		alt="Sketch for Bela patch" width="300" height="auto">
-The tall middle piece: <img src="/images/beeping-bela/case-middle-side.jpg" 	alt="Sketch for Bela patch" width="300" height="auto">
+The bottom piece:
+
+{% capture case %}
+  /images/beeping-bela/case-bottom.jpg
+  /images/beeping-bela/case-middle-side.jpg
+  /images/beeping-bela/case-middle.jpg
+{% endcapture %}
+
+<img src="/images/beeping-bela/case-bottom.jpg" alt="Sketch for Bela patch" width="300" height="auto">
+
+The tall middle piece: 
+<img src="/images/beeping-bela/case-middle-side.jpg" 	alt="Sketch for Bela patch" width="300" height="auto">
 <img src="/images/beeping-bela/case-middle.jpg" 		alt="Sketch for Bela patch" width="300" height="auto">
 
 Check out the PD patch [here][2].
@@ -42,3 +52,7 @@ Check out the PD patch [here][2].
 
 [1]:{{ site.url }}/downloads/beagleCase.zip
 [2]:{{ site.url }}/downloads/pd-patches/beeping-bela.pd
+
+
+
+{% include gallery images=case caption="the case" cols=3 %}
