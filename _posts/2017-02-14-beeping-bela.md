@@ -16,9 +16,9 @@ Check out the PD patch [here][2].
 
 
 
-<img src="/images/beeping-bela/beeping-bela-patch.jpg" alt="Sketch for Bela patch" width="auto" height="550">
-<img src="/images/beeping-bela/bela-top.jpg" alt="Sketch for Bela patch" width="auto" height="550">
-<img src="/images/beeping-bela/case-bottom-far.jpg" alt="Sketch for Bela patch" width="auto" height="550">
+<img src="/images/beeping-bela/beeping-bela-patch.jpg" alt="Sketch for Bela patch" width="auto" height="auto">
+<img src="/images/beeping-bela/bela-top.jpg" alt="Sketch for Bela patch" width="auto" height="auto">
+<img src="/images/beeping-bela/case-bottom-far.jpg" alt="Sketch for Bela patch" width="auto" height="auto">
 <img src="/images/beeping-bela/case-bottom.jpg" alt="Sketch for Bela patch" width="auto" height="550">
 <img src="/images/beeping-bela/case-middle-side.jpg" alt="Sketch for Bela patch" width="auto" height="550">
 <img src="/images/beeping-bela/case-middle.jpg" alt="Sketch for Bela patch" width="auto" height="550">
