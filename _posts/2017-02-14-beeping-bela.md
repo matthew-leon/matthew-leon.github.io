@@ -56,7 +56,7 @@ Once everything was soldered together, I attached the cape and all the inputs an
   /images/beeping-bela/top-angle.jpg
 {% endcapture %}
 
-{% include gallery images=final-product caption="The finished product!" cols=7 %}
+{% include gallery images=final-product caption="The finished product!" cols=5 %}
 
 Once everything was in the box, I started working on the [Pure Data](https://puredata.info) patch. I wanted something that would randomly generate tones based on the analog and digital inputs and would generate some sort of meaningful response from the LED's. Below is a rough sketch of the patch I created:
 
