@@ -59,16 +59,14 @@ Once everything was soldered together, I attached the cape and all the inputs an
 Once everything was in the box, I started working on the [Pure Data](https://puredata.info) patch. I wanted something that would randomly generate tones based on the analog and digital inputs and would generate some sort of meaningful response from the LED's. Below is a rough sketch of the patch I created:
 
 {% capture patch %}
-  /images/beeping-bela/disassembled.jpg
-  /images/beeping-bela/side-ethernet.jpg
-  /images/beeping-bela/side-usb.jpg
-  /images/beeping-bela/side-view.jpg
-  /images/beeping-bela/top-angle.jpg
+  /images/beeping-bela/beeping-bela-patch.jpg
 {% endcapture %}
 
-{% include gallery images=patch caption="A sketch of the PD patch" cols=7 %}
+{% include gallery images=patch caption="A sketch of the PD patch" cols=1 %}
 
 Check out the PD patch [here][2].
+
+Video performance coming soon!
 
 
 [1]:{{ site.url }}/downloads/beagleCase.zip
