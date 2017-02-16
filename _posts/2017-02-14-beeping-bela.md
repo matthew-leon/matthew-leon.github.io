@@ -34,7 +34,7 @@ Once I had the case printed, I drill pressed some holes in the lid for access to
 
 I then prepared a [proto-cape](https://www.sparkfun.com/products/12774) for the beaglebone by soldering headers pins onto the sides and soldering the inputs onto the board. Since the analog inputs on the bela are covered by the board, I pushed the wire connected to the potentiometers through the board into the bela's inputs.
 
-{% capture proto1 %}
+{% capture proto %}
   /images/beeping-bela/proto-pins-bottom.jpg
   /images/beeping-bela/proto-pins-side.jpg
   /images/beeping-bela/proto-pins.jpg
