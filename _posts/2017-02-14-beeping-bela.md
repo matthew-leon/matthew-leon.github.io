@@ -39,17 +39,12 @@ I then prepared a [proto-cape](https://www.sparkfun.com/products/12774) for the 
   /images/beeping-bela/proto-pins-side.jpg
   /images/beeping-bela/proto-pins.jpg
   /images/beeping-bela/proto-side.jpg
-{% endcapture %}
-
-{% include gallery images=proto1 caption="The proto-cape" cols=3 %}
-
-{% capture proto2 %}
   /images/beeping-bela/proto-pins.jpg
   /images/beeping-bela/proto-top-close.jpg
   /images/beeping-bela/proto-top.jpg
 {% endcapture %}
 
-{% include gallery images=proto2 caption="The proto-cape" cols=3 %}
+{% include gallery images=proto caption="The proto-cape" cols=3 %}
 
 Once everything was soldered together, I attached the cape and all the inputs and shoved everything into the box. 
 
@@ -69,7 +64,7 @@ Once everything was in the box, I started working on the [Pure Data](https://pur
   /images/beeping-bela/beeping-bela-patch.jpg
 {% endcapture %}
 
-{% include gallery images=patch caption="A sketch of the PD patch" cols=1 %}
+{% include gallery images=patch caption="A sketch of the PD patch" cols=3 %}
 
 Check out the PD patch [here][2].
 
