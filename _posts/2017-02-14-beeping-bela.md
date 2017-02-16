@@ -28,7 +28,7 @@ Once I had the case printed, I drill pressed some holes in the lid for access to
   /images/beeping-bela/under-lid-glue.jpg
 {% endcapture %}
 
-{% include gallery images=case caption="The lid with inputs and outputs attached" cols=3 %}
+{% include gallery images=lid caption="The lid with inputs and outputs attached" cols=3 %}
 
 
 Check out the PD patch [here][2].
