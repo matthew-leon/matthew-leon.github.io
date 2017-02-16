@@ -41,7 +41,7 @@ I then prepared a [proto-cape](https://www.sparkfun.com/products/12774) for the 
   /images/beeping-bela/proto-side.jpg
 {% endcapture %}
 
-{% include gallery images=proto1 caption="The proto-cape" cols=4 %}
+{% include gallery images=proto1 caption="The proto-cape" cols=3 %}
 
 {% capture proto2 %}
   /images/beeping-bela/proto-pins.jpg
@@ -61,7 +61,7 @@ Once everything was soldered together, I attached the cape and all the inputs an
   /images/beeping-bela/top-angle.jpg
 {% endcapture %}
 
-{% include gallery images=final-product caption="The finished product!" cols=5 %}
+{% include gallery images=final-product caption="The finished product!" cols=3 %}
 
 Once everything was in the box, I started working on the [Pure Data](https://puredata.info) patch. I wanted something that would randomly generate tones based on the analog and digital inputs and would generate some sort of meaningful response from the LED's. Below is a rough sketch of the patch I created:
 
