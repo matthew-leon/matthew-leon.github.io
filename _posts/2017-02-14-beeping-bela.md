@@ -42,7 +42,7 @@ I then prepared a [proto-cape](https://www.sparkfun.com/products/12774) for the 
   /images/beeping-bela/proto-top.jpg
 {% endcapture %}
 
-{% include gallery images=proto caption="The proto-cape" cols=5 %}
+{% include gallery images=proto caption="The proto-cape" cols=7 %}
 
 Once everything was soldered together, I attached the cape and all the inputs and shoved everything into the box. 
 
