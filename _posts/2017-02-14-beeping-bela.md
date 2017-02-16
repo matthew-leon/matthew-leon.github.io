@@ -4,6 +4,8 @@ title:  "Beeping Bela"
 description: "My first Bela patch, featuring 2 digital inputs, 2 digital outputs, and 2 analog inputs."
 date:   2017-02-14 14:00:00
 tags: [projects, bela, 3d printing, pure data]
+image:
+  feature: /beeping-bela/bela-top.jpg
 share: false
 ---
 **Beeping Bela**
