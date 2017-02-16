@@ -66,7 +66,9 @@ Once everything was in the box, I started working on the [Pure Data](https://pur
 
 {% include gallery images=patch caption="A sketch of the PD patch" cols=3 %}
 
-Check out the PD patch [here][2].
+The patch has two oscillators -- a sine wave in the left channel and a sawtooth in the right channel. The buttons toggle which waveform is sounding. The left potentiometer controls the speed of note generation, and the right potentiometer controls the randomness (what range of frequencies can be generated from 50-800hz).
+
+You can download the PD patch [here][2].
 
 Video performance coming soon!
 
