@@ -30,25 +30,46 @@ Once I had the case printed, I drill pressed some holes in the lid for access to
 
 {% include gallery images=lid caption="The lid with inputs and outputs attached" cols=3 %}
 
+I then prepared a [proto-cape](https://www.sparkfun.com/products/12774) for the beaglebone by soldering headers pins onto the sides and soldering the inputs onto the board. Since the analog inputs on the bela are covered by the board, I pushed the wire connected to the potentiometers through the board into the bela's inputs.
+
+{% capture proto %}
+  /images/beeping-bela/proto-pins-bottom.jpg
+  /images/beeping-bela/proto-pins-side.jpg
+  /images/beeping-bela/proto-pins.jpg
+  /images/beeping-bela/proto-side.jpg
+  /images/beeping-bela/proto-pins.jpg
+  /images/beeping-bela/proto-top-close.jpg
+  /images/beeping-bela/proto-top.jpg
+{% endcapture %}
+
+{% include gallery images=proto caption="The proto-cape" cols=5 %}
+
+Once everything was soldered together, I attached the cape and all the inputs and shoved everything into the box. 
+
+{% capture final-product %}
+  /images/beeping-bela/disassembled.jpg
+  /images/beeping-bela/side-ethernet.jpg
+  /images/beeping-bela/side-usb.jpg
+  /images/beeping-bela/side-view.jpg
+  /images/beeping-bela/top-angle.jpg
+{% endcapture %}
+
+{% include gallery images=final-product caption="The finished product!" cols=7 %}
+
+Once everything was in the box, I started working on the [Pure Data](https://puredata.info) patch. I wanted something that would randomly generate tones based on the analog and digital inputs and would generate some sort of meaningful response from the LED's. Below is a rough sketch of the patch I created:
+
+{% capture patch %}
+  /images/beeping-bela/disassembled.jpg
+  /images/beeping-bela/side-ethernet.jpg
+  /images/beeping-bela/side-usb.jpg
+  /images/beeping-bela/side-view.jpg
+  /images/beeping-bela/top-angle.jpg
+{% endcapture %}
+
+{% include gallery images=patch caption="A sketch of the PD patch" cols=7 %}
 
 Check out the PD patch [here][2].
 
-
-
-<img src="/images/beeping-bela/beeping-bela-patch.jpg" 	alt="Sketch for Bela patch" width="auto" height="500">
-
-<img src="/images/beeping-bela/bela-top.jpg" 			alt="Sketch for Bela patch" width="auto" height="auto">
-<img src="/images/beeping-bela/disassembled.jpg" 		alt="Sketch for Bela patch" width="auto" height="550">
-<img src="/images/beeping-bela/proto-pins-bottom.jpg" 	alt="Sketch for Bela patch" width="auto" height="550">
-<img src="/images/beeping-bela/proto-pins-side.jpg" 	alt="Sketch for Bela patch" width="auto" height="550">
-<img src="/images/beeping-bela/proto-pins.jpg" 			alt="Sketch for Bela patch" width="auto" height="550">
-<img src="/images/beeping-bela/proto-side.jpg" 			alt="Sketch for Bela patch" width="auto" height="550">
-<img src="/images/beeping-bela/proto-top-close.jpg" 	alt="Sketch for Bela patch" width="auto" height="550">
-<img src="/images/beeping-bela/proto-top.jpg" 			alt="Sketch for Bela patch" width="auto" height="550">
-<img src="/images/beeping-bela/side-ethernet.jpg" 		alt="Sketch for Bela patch" width="auto" height="550">
-<img src="/images/beeping-bela/side-usb.jpg" 			alt="Sketch for Bela patch" width="auto" height="550">
-<img src="/images/beeping-bela/side-view.jpg" 			alt="Sketch for Bela patch" width="auto" height="550">
-<img src="/images/beeping-bela/top-angle.jpg" 			alt="Sketch for Bela patch" width="auto" height="550">
 
 [1]:{{ site.url }}/downloads/beagleCase.zip
 [2]:{{ site.url }}/downloads/pd-patches/beeping-bela.pd
