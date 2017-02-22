@@ -5,7 +5,7 @@ description: "An update to the waveshaper idea."
 date:   2017-02-22 14:00:00
 tags: [projects, bela, waveshaper, pure data]
 image:
-  feature: /images/waveshape.bmp
+  feature: waveshape.bmp
 share: false
 ---
 **Waveshaper Update**
