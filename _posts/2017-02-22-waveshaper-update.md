@@ -14,7 +14,7 @@ After thinking more about my [waveshaping idea](https://matthew-leon.github.io/i
 {% capture sketch %}
   /images/sketches/waveshaper-update-sketch.jpg
 {% endcapture %}
-{% include gallery images=sketch caption="Waveshaper Sketch" cols=1 %}
+{% include gallery images=sketch caption="Waveshaper Sketch" cols=2 %}
 
 The first sketch involves two slider potentiometers and a button to toggle overwriting. The horizontal slider will cycle through the array slots, and the vertical slider will correspond to the amplitude value at that slot. The button will dictate when to overwrite at the corresponding sample index.
 
