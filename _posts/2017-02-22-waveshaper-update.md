@@ -8,7 +8,6 @@ image:
   feature: waveshape.jpg
 share: false
 ---
-**Waveshaper Update**
 
 After thinking more about my [waveshaping idea](https://matthew-leon.github.io/idea-generator/), I have made some updates. First off, the Bela cannot handle the number of inputs I mentioned in the post, but with less inputs there would be a loss in the waveshaping quality. To account for this I have sketched out some other possibilities.
 {% capture sketch %}
