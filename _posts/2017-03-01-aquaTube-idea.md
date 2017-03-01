@@ -7,7 +7,7 @@ tags: [projects, bela, aquaTube, pure data, ideas]
 
 share: false
 ---
-The idea I've decided to pursue involves water or liquid inside a clear acrylic tube. This idea originated as an instrument contained within a water bottle, but I think a longer plastic tube will yield better results. The device will use two [liquid level sensors](https://www.sparkfun.com/products/10221), two [force sensitive resistors] (https://www.sparkfun.com/products/9375), two [contact microphones] (https://en.wikipedia.org/wiki/Contact_microphone), and two [buttons](https://www.sparkfun.com/products/10442) to create sound.
+The idea I've decided to pursue involves water or liquid inside a clear acrylic tube. This idea originated as an instrument contained within a water bottle, but I think a longer plastic tube will yield better results. The device will use two [liquid level sensors](https://www.sparkfun.com/products/10221), two [force sensitive resistors](https://www.sparkfun.com/products/9375), two [contact microphones](https://en.wikipedia.org/wiki/Contact_microphone), and two [buttons](https://www.sparkfun.com/products/10442) to create sound.
 
 {% capture sketch %}
   /images/aquaTube/aquaTube-sketch.jpg
