@@ -14,8 +14,6 @@ The cradle selector would have several holes corresponding to the number and sha
 
 In order to perform the instrument, the user would place the cradle on the spindles in one of many different placements. Each cradle becomes a voice that can be triggered by pressing the button, with the photoresistor changing the frequency of the waveform associated with that spindle. Depending on which spindle is touching which cradle, that waveform will be processed by the effect of the associated cradle. When a cradle is not connected to a spindle, it becomes a wet/dry parameter using the photoresistor as input. 
 
-In order to play 
-
 {% capture sketch %}
   /images/sketches/spindle-sketch.jpg
 {% endcapture %}
