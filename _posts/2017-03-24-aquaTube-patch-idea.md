@@ -15,6 +15,6 @@ Pressing and holding a button will begin recording audio from the contact microp
 This will be the same on both sides of the instrument, creating a polyphonic sound.
 
 {% capture sketch %}
-  /images/sketches/aquaTube-patch-idea.jpg
+  /images/aquaTube/aquaTube-patch-idea.jpg
 {% endcapture %}
 {% include gallery images=sketch caption="aquaTube patch idea" cols=2 %}
