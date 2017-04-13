@@ -2,7 +2,7 @@
 layout: post
 title:  "AquaTube PVC Cap"
 description: "A cap to separate electronics and water"
-date:   2017-04-03 12:30:00
+date:   2017-04-12 12:30:00
 tags: [projects, bela, pure data, aquaTube, 3d printing]
 
 share: false
