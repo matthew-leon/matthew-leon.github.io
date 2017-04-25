@@ -15,7 +15,3 @@ Now onto the enclosure. I need a place to store the Bela and a breadboard. I lik
 
 [1]:{{ site.url }}/downloads/aquaTube/laserCase-2.0.ai
 
-{% capture sketch %}
-  
-{% endcapture %}
-{% include gallery images=sketch caption="aquaTube schematic" cols=2 %}
