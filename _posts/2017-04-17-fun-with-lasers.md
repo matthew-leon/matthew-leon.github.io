@@ -1,6 +1,6 @@
 --
 layout: post
-title:  "Fun with Lasers!"
+title:  "Fun with Lasers"
 description: "Laser cutting a housing for the Bela."
 date:   2017-04-12 12:30:00
 tags: [projects, bela, aquaTube, laser cutting]
@@ -16,6 +16,6 @@ Now onto the enclosure. I need a place to store the Bela and a breadboard. I lik
 [1]:{{ site.url }}/downloads/aquaTube/laserCase-2.0.ai
 
 {% capture sketch %}
-  /images/aquaTube/aquaTube-schematic.jpg
+  
 {% endcapture %}
 {% include gallery images=sketch caption="aquaTube schematic" cols=2 %}
