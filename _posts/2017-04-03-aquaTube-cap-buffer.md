@@ -12,9 +12,9 @@ Well, I've run into an annoying problem, as expected. The [PVC caps](https://www
 
 [1]:{{ site.url }}/downloads/aquaTube/cap-buffer-2.0.stl
 
-{% capture cap %}
+{% capture buffer %}
   /images/aquaTube/cap-buffer.JPG
   /images/aquaTube/tube+pvc.JPG
 
 {% endcapture %}
-{% include gallery images=sketch caption="Cap Buffer" cols=4 %}
+{% include gallery images=buffer caption="Cap Buffer" cols=4 %}
