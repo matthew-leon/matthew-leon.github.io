@@ -27,6 +27,6 @@ Some photos of the boxes:
 
 [1]:{{ site.url }}/downloads/aquaTube/laserCase-2.0.ai
 
-{% include gallery images=box caption="box photos" cols=2 %}
+{% include gallery images=box caption="box photos" cols=4 %}
 
 
