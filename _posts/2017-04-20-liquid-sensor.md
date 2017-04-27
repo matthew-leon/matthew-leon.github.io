@@ -14,4 +14,11 @@ I bought a [liquid level sensor](https://www.sparkfun.com/products/10221) from S
 <p><a href="https://vimeo.com/213692002">Liquid Level Sensor Test</a> from <a href="https://vimeo.com/user65579286">Matthew Leon</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
+Some photos of the boxes:
+{% capture sensor %}
+  /images/aquaTube/sensor.JPG      
+{% endcapture %}
+
+{% include gallery images=sensor caption="sensor photo" cols=3 %}
+
 
