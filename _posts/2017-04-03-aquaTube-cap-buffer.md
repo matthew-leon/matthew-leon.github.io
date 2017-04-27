@@ -17,4 +17,4 @@ Well, I've run into an annoying problem, as expected. The [PVC caps](https://www
   /images/aquaTube/tube+pvc.JPG
 
 {% endcapture %}
-{% include gallery images=buffer caption="Cap Buffer" cols=4 %}
+{% include gallery images=buffer caption="Cap Buffer" cols=3 %}

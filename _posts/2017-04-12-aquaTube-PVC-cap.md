@@ -29,4 +29,4 @@ Here's what it looks like with the microphone, LED's and water level sensor inst
   /images/aquaTube/cap+valve.JPG
 
 {% endcapture %}
-{% include gallery images=cap caption="aquaTube cap" cols=4 %}
+{% include gallery images=cap caption="aquaTube cap" cols=3 %}
